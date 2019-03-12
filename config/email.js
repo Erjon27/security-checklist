@@ -19,6 +19,15 @@ export default {
       },
     },
     {
+      name: 'Mailfence'
+      Image: 'https://mailfence.com/c/mailfence/images/mailfence_logo.png',
+      url: 'https://mailfence.com/',
+      sources: {
+        windows: 'https://mailfence.com/',
+        macos: 'https://mailfence.com/',
+      },
+    },
+    {
       name: 'ProtonMail',
       image: '/static/img/protonmail.jpg',
       url: 'https://protonmail.com//',
